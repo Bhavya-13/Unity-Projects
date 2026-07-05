@@ -1,0 +1,4 @@
+repository "Paperbound - The Last Eraser 2026-02-05_16-06-38/Paperbound - The Last Eraser@13469259641059@cloud"
+  path "/"
+    br "/main"
+    co "/main"
